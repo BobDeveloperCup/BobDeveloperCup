@@ -68,14 +68,16 @@ document.addEventListener('DOMContentLoaded', () => {
             button.addEventListener('click', () => {
                 const projectName = button.getAttribute('data-project');
                 
-                toast.innerHTML = `<i class="fa-solid fa-external-link"></i> Redirecionando para o MediaFire...`;
-                toast.classList.remove('hidden');
-                toast.style.opacity = '1';
+                if (toast) {
+                    toast.innerHTML = `<i class="fa-solid fa-external-link"></i> Redirecionando para o MediaFire...`;
+                    toast.classList.remove('hidden');
+                    toast.style.opacity = '1';
 
-                setTimeout(() => {
-                    toast.style.opacity = '0';
-                    setTimeout(() => toast.classList.add('hidden'), 300);
-                }, 3000);
+                    setTimeout(() => {
+                        toast.style.opacity = '0';
+                        setTimeout(() => toast.classList.add('hidden'), 300);
+                    }, 3000);
+                }
             });
         });
     }
