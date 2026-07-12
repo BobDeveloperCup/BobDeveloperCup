@@ -48,5 +48,15 @@
         "imagem": "BobBanner.png",
         "linkDownload": "https://pastebin.com/MibPGvs4",
         "temDownload": true
+    },
+    {
+        "id": 6,
+        "titulo": "ResenhaExtensão",
+        "status": "ativo",
+        "linguagens": ["JavaScript","Navegador"],
+        "descricao": "A ResenhaExtensão é uma extensão do navegador que coloca olhos por cima de todas as imagens presentes no navegador.",
+        "imagem": "ResenhaExtensão.png",
+        "linkDownload": "https://www.mediafire.com/file/2njqxjo6kdfzqoi/ResenhaExtensão.rar/file",
+        "temDownload": true
     }
 ]
