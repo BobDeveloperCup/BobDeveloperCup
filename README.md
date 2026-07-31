@@ -1,4 +1,4 @@
-https://github.com/BobDeveloperCup/BannerBobDeveloperCup/blob/main/Banner.png
+https://raw.githubusercontent.com/BobDeveloperCup/BannerBobDeveloperCup/main/Banner.png
 
 I build software where performance comes first.
 
