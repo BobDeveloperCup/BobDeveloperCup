@@ -1,11 +1,5 @@
-## About Me
+I build software where performance comes first.
 
-I am a software developer focused on building high-performance utilities, automation tools, and interactive experiences. My expertise spans across desktop performance optimization, web scraping/automation, and game development. 
+I'm a software developer specializing in high-performance utilities, automation systems, and game development. I enjoy solving complex engineering problems by writing lightweight, efficient, and scalable code.
 
-I specialize in creating lightweight, ultra-optimized software where efficiency and low latency are critical—such as high-frequency automation tools, custom emulators, and gameplay utilities.
-
-### 🛠️ Tech Stack & Skills
-
-* **Game Development:** C# & Unity (Core architecture, performance optimization, physics, and UI/UX).
-* **Automation & Scripting:** Python & Lua (High-speed macros, data processing, and task automation).
-* **Web & Front-end:** JavaScript (DOM manipulation, custom bookmarklets, and sandboxed runtimes).
+My projects range from desktop utilities and browser automation to Unity applications and developer tools, always with a strong focus on optimization and user experience.
