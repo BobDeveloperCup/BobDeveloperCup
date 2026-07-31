@@ -1,3 +1,5 @@
+https://github.com/BobDeveloperCup/BannerBobDeveloperCup/blob/main/Banner.png
+
 I build software where performance comes first.
 
 I'm a software developer specializing in high-performance utilities, automation systems, and game development. I enjoy solving complex engineering problems by writing lightweight, efficient, and scalable code.
