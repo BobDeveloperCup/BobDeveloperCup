@@ -62,15 +62,3 @@ I work across different technologies, exploring game development, scripting, web
   <li>Programming Experiments</li>
   <li>Creative Technology</li>
 </ul>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BobDeveloperCup&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobDeveloperCup&layout=compact&theme=dark" />
-</p>
