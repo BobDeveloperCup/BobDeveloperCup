@@ -1,26 +1,44 @@
 <div align="center">
+
   <img src="./banner1.gif" width="550">
 
   <h2>BobDeveloperCup</h2>
 
-  ### Software Development • Cybersecurity • Game Development
+  **Software Development · Cybersecurity · Game Development**
 
-  `Building, experimenting and understanding how technology works.`
+  *Building ideas, exploring technology and learning by creating.*
+
+  <br>
+
 </div>
 
 ---
 
-## `> whoami`
+<div align="center">
 
-Developer interested in software engineering, cybersecurity and game development. I enjoy building tools, exploring technologies and learning through hands-on projects.
+## About Me
 
-**Interests:** Software Development · Cybersecurity · Game Development · Networking · Automation
+I'm a developer interested in software, cybersecurity and game development.
+
+I enjoy creating tools, exploring new technologies and understanding how things work.
+
+<br>
+
+**Interests**
+
+💻 Software Development &nbsp; · &nbsp; 🔐 Cybersecurity
+
+🎮 Game Development &nbsp; · &nbsp; 🌐 Networking
+
+⚙️ Automation & Scripting
+
+</div>
 
 ---
 
-## `> technologies`
-
 <div align="center">
+
+## Technologies & Tools
 
 ### Programming Languages
 
@@ -44,39 +62,56 @@ Developer interested in software engineering, cybersecurity and game development
 
 ---
 
-## `> focus`
+<div align="center">
 
-| Area | Focus |
-| --- | --- |
-| 💻 Software Development | Applications & custom tools |
-| 🔐 Cybersecurity | Offensive & defensive security |
-| 🌐 Networking | TCP/IP & network analysis |
-| 🌍 Web Security | Application security |
-| 🎮 Game Development | Gameplay & mechanics |
-| ⚙️ Automation | Scripts & utilities |
+## What I Explore
 
----
+| 💻 Software | 🔐 Security |
+|:---:|:---:|
+| Applications & tools | Offensive & defensive security |
+| 🎮 Game Development | 🌐 Networking |
+| Gameplay & mechanics | TCP/IP & network analysis |
+| ⚙️ Automation | 🌍 Web Security |
+| Scripts & utilities | Application security |
 
-## `> projects`
-
-### Spectra.wtf
-<sub>Roblox · Luau · PC & Mobile</sub>
-
-Roblox platform combining scripts, features and customization options.
-
-**Status:** In Development · [Discord](https://discord.gg/6e3E8SGKa4)
-
-### Vortex
-<sub>Python · Automation</sub>
-
-Automation tool for Sala do Futuro, simplifying login and platform tasks.
-
-**Status:** Active · [Website & Download](https://bobdevelopercup.github.io/Vortex/)
+</div>
 
 ---
 
 <div align="center">
 
-`☕ Always learning. Always building.`
+## Selected Projects
+
+### Spectra.wtf
+
+<sub>Roblox · Luau · PC & Mobile</sub>
+
+A collection of Roblox scripts, features and customization options.
+
+**In Development**
+
+[Discord Community](https://discord.gg/6e3E8SGKa4)
+
+<br>
+
+### Vortex
+
+<sub>Python · Automation</sub>
+
+A tool that simplifies repetitive tasks on the Sala do Futuro platform.
+
+**Active**
+
+[Website & Download](https://bobdevelopercup.github.io/Vortex/)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by!*
+
+`☕ Always building something new.`
 
 </div>
