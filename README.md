@@ -1,64 +1,71 @@
-<h1 align="left">☕ Hi, I'm BobDeveloperCup</h1>
+<div align="center">
+  <img src="./banner1.gif" width="550">
+</div>
 
-<h3 align="left">Software Development | Game Systems | Automation</h3>
+# BobDeveloperCup
 
-<p align="left">
-Developer focused on building software, game systems, automation tools, and creative solutions.
-I work across different technologies, exploring game development, scripting, web systems, and automation.
-</p>
+<div align="center">
 
----
+### Software Development • Game Development • Automation
 
-<h2 align="left">🚀 What I Do</h2>
+`Building tools, exploring technologies and turning ideas into reality.`
 
-<ul>
-  <li>Develop games and gameplay systems using <b>Unity</b> and <b>C#</b></li>
-  <li>Create automation tools and scripts with <b>Python</b></li>
-  <li>Build web projects using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b></li>
-  <li>Create game-related systems and tools using <b>Lua</b></li>
-  <li>Experiment with software architecture and new technologies</li>
-  <li>Develop prototypes, utilities, and personal projects</li>
-</ul>
+<br>
 
----
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-<h2 align="left">🛠 Languages & Technologies</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </div>
 
 ---
 
-<h2 align="left">🔧 Building With</h2>
+## `> whoami`
 
-<ul>
-  <li>Unity game development and gameplay mechanics</li>
-  <li>C# systems and tools</li>
-  <li>Python automation and utilities</li>
-  <li>Web interfaces and interactive projects</li>
-  <li>Game scripts and custom solutions</li>
-  <li>Experimental projects and prototypes</li>
-</ul>
+I'm a developer interested in software, game development and automation.
+
+I enjoy experimenting with different technologies, building custom tools and turning ideas into functional projects.
+
+**Main interests:**
+- 🎮 Game Development
+- 💻 Software Development
+- ⚙️ Automation & Scripting
+- 🌐 Web Development
+- 🔬 Programming Experiments
 
 ---
 
-<h2 align="left">🎮 Interests</h2>
+## `> technologies`
 
-<ul>
-  <li>Game Development</li>
-  <li>Software Engineering</li>
-  <li>Automation</li>
-  <li>Programming Experiments</li>
-  <li>Creative Technology</li>
-</ul>
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+</div>
+
+---
+
+## `> projects`
+
+| Project | Description |
+|---|---|
+| **Spectra.wtf** | Roblox scripts and game-related systems |
+| **Personal Projects** | Software, automation and development experiments |
+
+---
+
+<div align="center">
+
+`Always learning. Always building.`
+
+</div>
