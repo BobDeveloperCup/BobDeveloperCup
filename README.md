@@ -59,6 +59,12 @@ I enjoy experimenting with ideas, creating useful tools and discovering how tech
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+<br><br>
+
+**Security Tools**
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+
 </div>
 
 ---
