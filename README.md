@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="./banner1.gif" width="550">
 
   <h2>BobDeveloperCup</h2>
@@ -12,19 +12,9 @@
 
 ## `> whoami`
 
-I'm a developer interested in software engineering, cybersecurity and game development.
+Developer interested in software engineering, cybersecurity and game development. I enjoy building tools, exploring technologies and learning through hands-on projects.
 
-I enjoy understanding how systems work, exploring security concepts, building custom tools and experimenting with different technologies.
-
-My main interests include:
-
-- 💻 Software Development
-- 🔐 Cybersecurity
-- 🎮 Game Development
-- 🌐 Networking & Web Security
-- ⚙️ Automation & Scripting
-
-I prefer learning through practical projects, experimentation and hands-on environments.
+**Interests:** Software Development · Cybersecurity · Game Development · Networking · Automation
 
 ---
 
@@ -58,36 +48,30 @@ I prefer learning through practical projects, experimentation and hands-on envir
 
 | Area | Focus |
 | --- | --- |
-| 💻 Software Development | Applications, tools & software architecture |
+| 💻 Software Development | Applications & custom tools |
 | 🔐 Cybersecurity | Offensive & defensive security |
-| 🌐 Networking | TCP/IP, infrastructure & network analysis |
-| 🌍 Web Security | Application security & vulnerability research |
-| 🎮 Game Development | Gameplay systems & mechanics |
-| ⚙️ Automation | Scripting, utilities & custom tools |
+| 🌐 Networking | TCP/IP & network analysis |
+| 🌍 Web Security | Application security |
+| 🎮 Game Development | Gameplay & mechanics |
+| ⚙️ Automation | Scripts & utilities |
 
 ---
 
 ## `> projects`
 
 ### Spectra.wtf
+<sub>Roblox · Luau · PC & Mobile</sub>
 
-<sub>Roblox Scripts · Luau · PC & Mobile</sub>
+Roblox platform combining scripts, features and customization options.
 
-A Roblox tool bringing together scripts, features and customization options in a single platform, with support for desktop and mobile devices.
-
-**Status:** In Development
-
-[Discord](https://discord.gg/6e3E8SGKa4)
+**Status:** In Development · [Discord](https://discord.gg/6e3E8SGKa4)
 
 ### Vortex
+<sub>Python · Automation</sub>
 
-<sub>Python · Automation · Desktop</sub>
+Automation tool for Sala do Futuro, simplifying login and platform tasks.
 
-An automation tool developed for the Sala do Futuro platform, featuring automatic login, page completion and convenient content copying and pasting.
-
-**Status:** Active
-
-[Website & Download](https://bobdevelopercup.github.io/Vortex/)
+**Status:** Active · [Website & Download](https://bobdevelopercup.github.io/Vortex/)
 
 ---
 
