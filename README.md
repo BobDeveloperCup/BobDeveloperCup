@@ -10,27 +10,30 @@
 
   <br>
 
+  <img src="https://img.shields.io/badge/Always-Learning-8A63D2?style=flat-square">
+  <img src="https://img.shields.io/badge/Driven_by-Curiosity-E6A23C?style=flat-square">
+
 </div>
 
 ---
 
 <div align="center">
 
-## About Me
+## ✦ A Little About Me
 
 I'm a developer interested in software, cybersecurity and game development.
 
-I enjoy creating tools, exploring new technologies and understanding how things work.
+I enjoy experimenting with ideas, creating useful tools and discovering how technology works.
 
 <br>
 
-**Interests**
+### Things I Enjoy Exploring
 
-💻 Software Development &nbsp; · &nbsp; 🔐 Cybersecurity
+💻 **Software Development** &nbsp; · &nbsp; 🔐 **Cybersecurity**
 
-🎮 Game Development &nbsp; · &nbsp; 🌐 Networking
+🎮 **Game Development** &nbsp; · &nbsp; 🌐 **Networking**
 
-⚙️ Automation & Scripting
+⚙️ **Automation & Scripting**
 
 </div>
 
@@ -38,25 +41,54 @@ I enjoy creating tools, exploring new technologies and understanding how things 
 
 <div align="center">
 
-## Technologies & Tools
+## ✦ Technologies & Tools
 
-### Programming Languages
+**Languages**
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-### Development
+<br><br>
+
+**Development**
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-### Systems & Security
+</div>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+---
+
+<div align="center">
+
+## ✦ Areas of Interest
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Development</h3>
+      Applications, custom tools and software projects.
+    </td>
+    <td align="center" width="50%">
+      <h3>🔐 Cybersecurity</h3>
+      Security research, application security and practical learning.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🎮 Game Development</h3>
+      Gameplay systems, mechanics and creative experiments.
+    </td>
+    <td align="center">
+      <h3>⚙️ Automation</h3>
+      Scripts, utilities and workflow improvements.
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -64,29 +96,17 @@ I enjoy creating tools, exploring new technologies and understanding how things 
 
 <div align="center">
 
-## What I Explore
+## ✦ Explore My Work
 
-| 💻 Software | 🔐 Security |
-|:---:|:---:|
-| Applications & tools | Offensive & defensive security |
-| 🎮 Game Development | 🌐 Networking |
-| Gameplay & mechanics | TCP/IP & network analysis |
-| ⚙️ Automation | 🌍 Web Security |
-| Scripts & utilities | Application security |
+A collection of my projects, experiments and creations.
 
-</div>
-
----
-
-<div align="center">
-
-## My Portfolio
-
-Explore my projects, experiments and other work.
+<br>
 
 <a href="https://bobdevelopercup.github.io/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-bobdevelopercup.github.io-7C6CF0?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-Visit%20Website-8064D8?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
+
+<br><br>
 
 </div>
 
@@ -96,6 +116,6 @@ Explore my projects, experiments and other work.
 
 *Thanks for stopping by!*
 
-`☕ Always building something new.`
+**☕ Always learning. Always creating.**
 
 </div>
