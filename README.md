@@ -80,29 +80,13 @@ I enjoy creating tools, exploring new technologies and understanding how things 
 
 <div align="center">
 
-## Selected Projects
+## My Portfolio
 
-### Spectra.wtf
+Explore my projects, experiments and other work.
 
-<sub>Roblox · Luau · PC & Mobile</sub>
-
-A collection of Roblox scripts, features and customization options.
-
-**In Development**
-
-[Discord Community](https://discord.gg/6e3E8SGKa4)
-
-<br>
-
-### Vortex
-
-<sub>Python · Automation</sub>
-
-A tool that simplifies repetitive tasks on the Sala do Futuro platform.
-
-**Active**
-
-[Website & Download](https://bobdevelopercup.github.io/Vortex/)
+<a href="https://bobdevelopercup.github.io/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-bobdevelopercup.github.io-7C6CF0?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </div>
 
